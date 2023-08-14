@@ -94,7 +94,7 @@
     "html-tag-js": "^1.1.41",
     "js-base64": "^3.7.4",
     "jszip": "^3.10.1",
-    "marked": "^5.0.3",
+    "marked": "^5.1.1",
     "mime-types": "^2.1.35",
     "minimatch": "^9.0.1",
     "mustache": "^4.2.0",
