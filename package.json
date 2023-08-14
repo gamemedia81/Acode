@@ -96,7 +96,7 @@
     "jszip": "^3.10.1",
     "marked": "^5.0.3",
     "mime-types": "^2.1.35",
-    "minimatch": "^9.0.1",
+    "minimatch": "^9.0.3",
     "mustache": "^4.2.0",
     "url-parse": "^1.5.10",
     "vanilla-picker": "^2.11.2",
